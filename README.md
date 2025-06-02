@@ -9,6 +9,6 @@ The dataset cannot be provided due to unclear licensing.
 
 The Jupyter Notebook includes:
 
-    Data analysis and preparation.
-    Feature engineering to extract permutation invariant information from NMR spectra.
-    Implementation of a Support Vector Machine (SVM) that uses these aggregated features as well as histograms to predict the diterpene classes.
+   - Data analysis and preparation.
+   - Feature engineering to extract permutation invariant information from NMR spectra.
+   - Implementation of a Support Vector Machine (SVM) that uses these aggregated features as well as histograms to predict the diterpene classes.
